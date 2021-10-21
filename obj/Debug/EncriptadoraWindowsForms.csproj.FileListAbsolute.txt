@@ -1,0 +1,10 @@
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\bin\Debug\EncriptadoraWindowsForms.exe.config
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\bin\Debug\EncriptadoraWindowsForms.exe
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\bin\Debug\EncriptadoraWindowsForms.pdb
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\obj\Debug\EncriptadoraWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\obj\Debug\EncriptadoraWindowsForms.Form1.resources
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\obj\Debug\EncriptadoraWindowsForms.Properties.Resources.resources
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\obj\Debug\EncriptadoraWindowsForms.csproj.GenerateResource.cache
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\obj\Debug\EncriptadoraWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\obj\Debug\EncriptadoraWindowsForms.exe
+C:\Users\Rodrigo\source\repos\EncriptadoraWindowsForms\EncriptadoraWindowsForms\obj\Debug\EncriptadoraWindowsForms.pdb
